@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TestViewController.h
 //  TestCordova
 //
 //  Created by Doman on 2017/7/14.
@@ -7,10 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "CDVViewController.h"
 
-@interface ViewController : CDVViewController
-
+@interface TestViewController : UIViewController
 
 @end
-
